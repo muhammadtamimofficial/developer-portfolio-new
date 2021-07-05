@@ -1,0 +1,93 @@
+body{
+    font-family: 'Arimo', sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+span.name{
+    color: #ffa500;
+}
+h1{font-size: 50px;}
+.main-div{
+    display: flex;
+    padding-right: 10px;
+}
+.first-content{
+    width: 50%;
+    padding-top: 50px;
+    padding-left: 40px;
+    padding-left: 40px;
+    padding-bottom: 50px;
+}
+.first-content img{
+    width: 80%;
+}
+.first-section{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+a{
+    color: honeydew;
+    background-color: rgb(150, 33, 218);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+a:hover{
+    color: lavender;
+    background-color: tomato;
+}
+.main-div2{
+    display: flex;
+}
+.sceond-content{
+    width: 50%;
+    padding-left: 40px;
+    padding-right: 50px;
+    padding-top: 30px;
+}
+.sceond-content img{
+    width:80%;
+}
+.sceond_section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.main-div3{
+    display: flex;
+}
+.Experiences{
+    padding-left: 40px;
+}
+.therd-content{
+    width: 50%;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    margin: 69px;
+    margin-bottom: 50px;
+    box-shadow:10px 5px 5px 5px rgb(117, 112, 112);
+}
+.therd-content:hover{
+    background-color: rgb(207, 176, 176);
+    box-shadow: none;
+    border-left:solid 5px rebeccapurple;
+}
+h2.therd-h2{
+    color: #ffa500;
+}
+.copy-rigth{
+    text-align: center;
+    color: rgb(207, 176, 176);
+    background-color: rgb(49, 40, 40);
+    padding-bottom:0px;
+    margin-bottom: 10px rgb(49,40,40);
+}
